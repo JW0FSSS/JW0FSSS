@@ -1,6 +1,7 @@
 <div align="center">
 Hola,soy Jose 👋
 </div>
+
 ![image](https://github.com/JW0FSSS/JW0FSSS/assets/144968031/690c1ccd-3665-4558-ac9a-724602a575a4)
 
 Desarrollador Front and Back
@@ -10,12 +11,11 @@ Desarrollador Front and Back
 Skills:
 Languages:
 
-[Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) typescript NodeJs Java
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 Database
-
-
-MySQL  PostgreSQL MongoDB
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 Technologies
 
